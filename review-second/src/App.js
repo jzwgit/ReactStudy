@@ -3,12 +3,7 @@ import './App.css';
 
 // Start : chapter 01 (Hello, world)
 class HelloWorld extends Component {
-  render(){
-    return (
-      <h1>Hello, world! </h1>
-    );
-  }
-}
+  render(){ return ( <h1>Hello, world! </h1>); } }
 // End : chapter 01 (Hello, world)
 // -------------------------------------------------------------------
 // Start : chapter 02 (JSX简介)
